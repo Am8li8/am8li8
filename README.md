@@ -48,6 +48,6 @@ I started my design career **3 years ago**, and I have **1 year of experience** 
   <img src="https://img.shields.io/badge/Behance-0057FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/>
 </a>
 
-<a href="https://www.linkedin.com/in/USERNAME/">
+<a href="https://www.linkedin.com/in/am8li8/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
