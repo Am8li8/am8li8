@@ -10,6 +10,8 @@
 I'm **Malek Mahmoud Elmasry**, a **Logo Designer** & **Front-End Developer**.  
 I started my design career **3 years ago**, and I have **1 year of experience** in front-end development.  
 
+<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" alt="Animated GIF">
+
 ---
 
 ## Skills  
@@ -48,6 +50,6 @@ I started my design career **3 years ago**, and I have **1 year of experience** 
   <img src="https://img.shields.io/badge/Behance-0057FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/>
 </a>
 
-<a href="https://www.linkedin.com/in/am8li8/">
+<a href="https://www.linkedin.com/in/USERNAME/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
