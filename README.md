@@ -1,7 +1,7 @@
 <!-- Header -->
 <h1 align="center">Malek Mahmoud</h1>
 
-### Designer & Programmer  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=28&pause=1000&color=00A4FF&width=435&lines=Designer+%26+Programer)](https://git.io/typing-svg)
 
 ---
 
