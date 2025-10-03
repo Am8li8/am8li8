@@ -7,49 +7,30 @@
 
 ## About Me  
 
-I'm **Malek Mahmoud Elmasry**, a **Logo Designer** & **Front-End Developer**.  
-I started my design career **3 years ago**, and I have **1 year of experience** in front-end development.  
-
-<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" alt="Animated GIF">
+`I'm **Malek Mahmoud Elmasry**, a **Logo Designer** & **Front-End Developer**.  
+I started my design career **3 years ago**, and I have **1 year of experience** in front-end development.`
 
 ---
 
 ## Skills  
 
-![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
-![Markdown Badge](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+**HTML**
+**CSS**
+**JS**
 
----
-## Ide
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code Logo" width="40" />
-
----
-
-## GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=am8li8&show_icons=true&theme=tokyo)    ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=am8li8&layout=compact&theme=tokyo)
+**MARKDOWN**
 
 ---
 
-## Contact  
+## GitHub States
 
-<a href="mailto:mane1234567855@gmail.com">
-  <img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=am8li8&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=am8li8&layout=compact&theme=dark)
 
-<a href="https://t.me/am8li8">
-  <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Portfolio"/>
-</a>
+## Contact Me 
 
----
-
-## Social Accounts
-
-<a href="https://www.behance.net/am8li8">
-  <img src="https://img.shields.io/badge/Behance-0057FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/>
-</a>
-
-<a href="https://www.linkedin.com/in/USERNAME/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
+<a href="mailto:m25fonts@gmail.com">Email</a>
+ <a href="https://behance.net/am8li8">Behance</a>
+ <a href="https://t.me/am8li8">Telegram</a>
+ <a href="https://github.com/am8li8">GitHub</a>
+ <a href="https://linkedin.com/in/am8li8">LinkedIn</a>
